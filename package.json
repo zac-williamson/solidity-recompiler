@@ -1,0 +1,17 @@
+{
+  "name": "solidity-recompiler",
+  "version": "1.0.0",
+  "description": "it's a solidity recompiler! Well, it will be...",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive",
+    "start": "node ./"
+  },
+  "author": "Zachary Williamson",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "sinon": "^6.1.4"
+  }
+}
